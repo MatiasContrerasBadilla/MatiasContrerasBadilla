@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MatiasContrerasBadilla
+- 👀 I’m interested in web development at the moment, but I’m eager to explore new skillsets in the future
+- 🌱 I’m currently learning front end development
+- 💞️ I’m looking to collaborate on open source projects and gain experience by contributing to meaningful projects
+- 📫 How to reach me: contrerasbadilla.matias@gmail.com
+- ⚡ Fun fact: I’m also exploring back-end technologies and planning to become a full-stack developer
